@@ -20,6 +20,13 @@ npm i
 cd frontend
 npm run dev    (or -> npm start)
 ```
+- Run backend.
+```
+cd backend
+npm i
+node server.js
+```
+ --- 
 
 ## Contribution Guide
 
