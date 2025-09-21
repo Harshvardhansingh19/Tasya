@@ -4,6 +4,23 @@ A marketplace for artists and patrons.
 
 ---
 
+## Installation
+
+- Clone the repository
+```
+  git clone https://github.com/Harshvardhansingh19/Tasya.git
+```
+- Change the current directory to frontend.
+```
+cd frontend
+npm i
+```
+- Run frontend.
+```
+cd frontend
+npm run dev    (or -> npm start)
+```
+
 ## Contribution Guide
 
 Welcome! If you'd like to contribute to this project, please follow these steps. This guide will walk you through forking the repository, cloning it to your local machine, and setting it up to push your changes back.
